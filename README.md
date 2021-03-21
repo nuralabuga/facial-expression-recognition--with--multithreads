@@ -4,7 +4,7 @@ This site was built using [piyush2896
 /
 Facial-Expression-Recognition-Challenge](https://github.com/piyush2896/Facial-Expression-Recognition-Challenge).
 
-It was worked on [camera.py] (https://github.com/piyush2896/Facial-Expression-Recognition-Challenge/blob/master/camera.py) file in the folder and updated to camera_multithread_ram.py. The code has been turned into a multi-thread running on separate threads. ProducerThread reads the video and buffers the frames, while ConsumerThread predicted with the pre-trained model given in the project.
+It was worked on [camera.py](https://github.com/piyush2896/Facial-Expression-Recognition-Challenge/blob/master/camera.py) file in the folder and updated to camera_multithread_ram.py. The code has been turned into a multi-thread running on separate threads. ProducerThread reads the video and buffers the frames, while ConsumerThread predicted with the pre-trained model given in the project.
 
 The code works in real-time and attention has been paid to memory usage. It has been arranged in a way to profile the memory usage while the code is running.
 
